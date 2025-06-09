@@ -7,7 +7,7 @@ General conditions regarding QBot bot are under this topic.
 2. By adding QBot in your server, you agree to these terms of service and the future terms which we may add after a notice.
 - Terms of Use
 
-1. The client must not resell the premium codes.
+1. The client must not sell the code.
 2. Intentional command spam or attempts to crash the bot should not be made.
 3. QBot should not be used in Bot spam servers which cause command spam.
 4. QBot Team reserves the rights to prohibit any server or user from using QBot.
