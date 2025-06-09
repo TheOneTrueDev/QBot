@@ -14,7 +14,7 @@ General conditions regarding QBot bot are under this topic.
 5. The client is responsible for any violation caused by them.
 6. We have the rights to update terms of service anytime with a notice in the support server.
 
-=====================================================================================================================================================================================
+===========================================================================
 
 Privacy Policy for Qbot.
 
